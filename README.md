@@ -2,6 +2,9 @@
 
 Fiz esse projeto de um site da Alura Plus seguindo as aulas do curso de HTML e CSS da Alura.
 
+Hospedado no GitHub pages: 
+https://mikereiss.github.io/aluraplus/
+
 Algumas das imagens:
 
 ![aluraplus](https://github.com/mikeReiss/aluraplus/assets/100447560/15303bfd-1452-4e20-b9cf-511a50cc933f)
